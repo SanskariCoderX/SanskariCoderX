@@ -36,11 +36,7 @@
         >
           Namaste, I'm Anjan Shetty!
           <br />
-          aka <span style="color: #ffffff; font-style: italic;">SanskariXD</span>,
-          <br />
-       I bring a touch of sanskaar to everything I do....
-          <br />
-          ~ :)
+          aka <span style="color: #ffffff; font-style: italic;">Sanskari</span>,:)
         </b>
       </samp>
     </h3>
